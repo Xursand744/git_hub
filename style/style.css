@@ -64,3 +64,18 @@ h1 {
     color: rgb(18, 129, 147);
     filter: drop-shadow(8px 8px 4px yellow);
 }
+
+.sec2 {
+    height: 100vh;
+    background-color: rgba(0, 0, 255, 0.456);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sec3 {
+    height: 100vh;
+    background-color: rgba(140, 0, 255, 0.456);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
